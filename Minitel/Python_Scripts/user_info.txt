@@ -1,0 +1,39 @@
+(b"H/W path          Device      Class       Description
+n/0/0                          memory      2GiB System memory
+n/0/1                          processor   Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+(b"H/W path          Device      Class       Description
+n/0/0                          memory      2GiB System memory
+n/0/1                          processor   Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+(b"H/W path          Device      Class       Description
+n/0/0                          memory      2GiB System memory
+n/0/1                          processor   Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+(b"H/W path          Device      Class       Description
+n/0/0                          memory      2GiB System memory
+n/0/1                          processor   Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+(b"H/W path          Device      Class       Description
+n/0/0                          memory      2GiB System memory
+n/0/1                          processor   Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+(b"H/W path          Device      Class       Description
+n/0/0                          memory      2GiB System memory
+n/0/1                          processor   Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+(b"H/W path          Device      Class       Description
+n/0/0                          memory      2GiB System memory
+n/0/1                          processor   Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+(b"H/W path          Device      Class       Description
+n/0/0                          memory      2GiB System memory
+n/0/1                          processor   Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+(b"H/W path          Device      Class       Description
+n/0/0                          memory      2GiB System memory
+n/0/1                          processor   Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+(b"H/W path          Device      Class       Description
+n/0/0                          memory      2GiB System memory
+n/0/1                          processor   Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+(b"H/W path          Device      Class       Description
+n/0/0                          memory      2GiB System memory
+n/0/1                          processor   Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+(b"H/W path          Device      Class       Description
+n/0/0                          memory      2GiB System memory
+n/0/1                          processor   Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+(b"H/W path          Device      Class       Description
+n/0/0                          memory      2GiB System memory
+n/0/1                          processor   Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
